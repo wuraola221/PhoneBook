@@ -5,7 +5,7 @@ public class PhoneBookEntry {
  private String phoneNumber;
 
  public PhoneBookEntry(String name, String phoneNumber) {
-     this.name = name;
+//     this.name = name;
      this.phoneNumber = phoneNumber;
  }
 
